@@ -35,8 +35,12 @@ chmod u+x hello_world.sh
 ```
 ./hello_world.sh
 ```
+or
+
 ```
 bash hello_world.sh
 ```
 #### Output:
 ##### Hello World!
+
+## CONGRATULATIONS!
