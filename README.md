@@ -43,4 +43,4 @@ bash hello_world.sh
 #### Output:
 ##### Hello World!
 
-## CONGRATULATIONS!
+## Congratulations!
