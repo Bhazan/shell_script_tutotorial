@@ -1,2 +1,2 @@
-# shell_script_tutotorial
-Learn basic of shell script with me!
+# Shell Scripting for Beginners:
+#### Let's get started!
