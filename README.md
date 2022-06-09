@@ -13,7 +13,8 @@ touch hello_world.sh
 ```
 . Find the path to your bash shell.
 ```
-which bash```
+which bash
+```
 ###### Output: /usr/bin/bash
 
 . We will echo "Hello World!" to the console.
