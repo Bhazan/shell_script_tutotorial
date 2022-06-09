@@ -13,8 +13,7 @@ touch hello_world.sh
 ```
 . Find the path to your bash shell.
 ```
-which bash
-```
+which bash```
 ###### Output: /usr/bin/bash
 
 . We will echo "Hello World!" to the console.
@@ -23,7 +22,7 @@ echo "Hello World"
 ```
 ### Edit hello_world.sh 
 ```
-#! /bin/bash
+#! /usr/bin/bash
 echo "Hello World!"
 ```
 ### Provide execution rights to your user.
