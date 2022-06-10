@@ -66,3 +66,5 @@ bash hello_world.sh
 ## The basic syntax of Bash Script with example given below!
 
 1. [Variable](./variable/)
+
+2. [Arithmetic Expressions](./arithmetic_expressions/)
