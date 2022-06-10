@@ -65,4 +65,4 @@ bash hello_world.sh
 
 ## The basic syntax of Bash Script with example given below!
 
-1. [Variable](./variable/) a simple variable example!
+1. [Variable](./variable/)
