@@ -4,11 +4,11 @@
 
 ##### This is the first line of script.
 
-###### The path of the bash program can vary.
-
 ```
 #! /bin/bash
 ```
+
+###### The path of the bash program can vary.
 
 ## How to create your first Bash script:
 
