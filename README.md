@@ -68,3 +68,5 @@ bash hello_world.sh
 1. [Variable](./variable/)
 
 2. [Arithmetic Expressions](./arithmetic_expressions/)
+
+3. [Conditional Statements](./conditional_statements/)
