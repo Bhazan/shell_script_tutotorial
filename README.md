@@ -62,3 +62,7 @@ bash hello_world.sh
 ##### Hello World!
 
 ## Congratulations!
+
+## The basic syntax of Bash Script with example given below!
+
+1. [Variable](./variable/)
